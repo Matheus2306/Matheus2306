@@ -2,7 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/OIP.ztFv2pQyd2lh5I9BkXZScQHaEK?rs=1&pid=ImgDetMain"  />
 
 ###
 
