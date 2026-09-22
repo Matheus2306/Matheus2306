@@ -168,7 +168,6 @@ Procuro desenvolver soluções considerando não apenas a implementação imedia
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheus2306&theme=github_dark"
   alt="GitHub Stats"
 />
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheus2306&theme=github_dark"
   alt="GitHub Languages"
